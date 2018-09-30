@@ -1,0 +1,118 @@
+ .wrapper{
+                width: 410px;
+                height: 550px;
+                margin: 50px auto;
+                padding:30px;
+                border-radius: 40px;
+                background-color: #5a77f1;
+            }
+            .inp{
+                width: 410px;
+                height: 100px;
+                border-radius: 20px;
+            }
+            #output1{
+                width: 400px;
+                height: 50px;
+                padding-right: 10px;
+                font-size: 20px;
+                line-height: 50px;
+                color: #000;
+                border: none;
+                outline: none;
+                background-color: #fff;
+                overflow: hidden;
+                text-align: right;
+            }
+            #outputResult{
+                width: 400px;
+                height: 50px;
+                padding-right: 10px;
+                font-size: 40px;
+                line-height: 50px;
+                color: #000;
+                border: none;
+                outline: none;
+                text-align: right;
+                background-color: #fff;
+            }
+            #content{
+                width: 410px;
+                height: 440px;
+                margin-top: 15px;
+            }
+
+            table{
+                width: 410px;
+                height: 440px;
+                text-align: center;
+                table-layout:fixed;
+
+            }
+            td{
+                font-size: 30px;
+                color: #fff;
+                cursor: pointer;
+                border-radius: 20px;
+                border: 1px solid #ddd;
+                background-color: #a5befd;
+            }
+            td:hover{
+                background-color: pink;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #num,#btn{
+                width: 90px;
+                height: 90px;
+                border: 1px solid #d6dbf8;
+                border-radius: 20px;
+                background-color: #a5befd;
+                font-size: 38px;
+                text-align: center;
+                line-height: 90px;
+                color:#fff;
+                font-weight: 900;
+                cursor: pointer;
+                outline: none;
+            }
+            #btnResult{
+                width: 90px;
+                height: 90px;
+                font-size: 38px;
+                text-align: center;
+                line-height: 90px;
+                color:#fff;
+                font-weight: 900;
+                cursor: pointer;
+                outline: none;
+                border: 1px solid #d6dbf8;
+                border-radius: 20px;
+                background-color: #fe7d71;
+            }
+             #num:hover,#btn:hover,#btnResult:hover{
+                background-color: pink;
+             }
